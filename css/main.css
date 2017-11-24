@@ -1,0 +1,38 @@
+body{
+  background-color: lightgrey;
+}
+hr{
+  border: 2px solid black;
+}
+.card{
+  width: 20%;
+  height: 200px;
+  border: 2px solid black;
+  float: left;
+  margin: 4% 6%;
+}
+div{
+  background-image: url("../assets/images/LOGO_LAB.png");
+  background-position: center;
+  /*background-size: cover;*/
+}
+.card-1:hover{
+  background-image: url("../assets/images/cabin.png");
+  background-size: cover;
+}
+.card-2:hover{
+  background-image: url("../assets/images/cake.png");
+  background-size: cover;
+}
+.card-3:hover{
+  background-image: url("../assets/images/circus.png");
+  background-size: cover;
+}
+.card-4:hover{
+  background-image: url("../assets/images/game.png");
+  background-size: cover;
+}
+.card-commodin:hover{
+  background-image: url(https://image.freepik.com/vector-gratis/mandala-colorido-con-formas-florales_1159-549.jpg);
+  background-size: cover;
+}
